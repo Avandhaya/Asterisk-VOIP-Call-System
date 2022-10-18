@@ -5,5 +5,7 @@ Asterisk is a framework for building multi-protocol, real-time communications ap
 
 
 
-<img src="https://user-images.githubusercontent.com/87765555/169574300-8dc5cefc-c1c4-4471-b8c2-5200a2546960.png" width="400px">
+<img src="https://user-images.githubusercontent.com/87765555/196439464-98659ca8-e311-4889-9261-f655fbf28920.png" width="400px">
+
+
 
