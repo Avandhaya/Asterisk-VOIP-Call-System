@@ -6,7 +6,13 @@ Asterisk is a framework for building multi-protocol, real-time communications ap
 
 <h2>1. A successful call between two SIP users within the same domain</h2>
 
-https://user-images.githubusercontent.com/87765555/196667368-fad91315-3803-4e56-a293-3ed0a2fddc91.mp4
+https://user-images.githubusercontent.com/87765555/196673412-05e99e73-4036-4d2a-9045-3a9849d9042b.mp4
+
+<h2>2. A successful call between two SIP users within two domains</h2>
+
+
+<h2>3. A failed call attempt between two SIP users within the same domain</h2>
+
 
 
 
