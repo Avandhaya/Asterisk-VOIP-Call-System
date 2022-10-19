@@ -4,6 +4,9 @@ Asterisk is an open source framework for building communications applications. A
 Asterisk is a framework for building multi-protocol, real-time communications applications and solutions. Asterisk is to realtime voice and video applications as Apache is to web applications: the underlying platform.
 <h1 align="center"><img src="https://user-images.githubusercontent.com/87765555/196439464-98659ca8-e311-4889-9261-f655fbf28920.png" width="400px"></h1>
 
+<h2>1. A successful call between two SIP users within the same domain</h2>
+
+https://user-images.githubusercontent.com/87765555/196667368-fad91315-3803-4e56-a293-3ed0a2fddc91.mp4
 
 
 
